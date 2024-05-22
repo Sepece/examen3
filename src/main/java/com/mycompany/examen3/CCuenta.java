@@ -12,7 +12,6 @@ public class CCuenta {
         CCuenta miCuenta = new CCuenta();
 
         System.out.println("Saldo Incial: " + miCuenta.dSaldo + " euros");
-
         miCuenta.ingresar(-100);
         System.out.println("Saldo Incial: " + miCuenta.dSaldo + " euros");
         miCuenta.ingresar(100);

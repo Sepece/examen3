@@ -17,6 +17,7 @@ public class CCuentaTest {
     public CCuentaTest() {
     }
     
+    
     /**
      * Test of ingresar method, of class CCuenta.
      */
